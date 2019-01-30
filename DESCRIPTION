@@ -1,0 +1,20 @@
+Package: MyFirstPackage
+Title: Test functions RII course
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Anna",
+           family = "Konturek",
+           role = c("cre"),
+           email = "first.last@example.com")
+Description: RII course test functions and examples
+Suggests: 
+  testthat
+Depends: R (>= 3.4.0),
+  pheatmap,
+  ggplot2,
+  Rtsne
+  rgl
+License: GLP-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
