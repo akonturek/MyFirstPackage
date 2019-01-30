@@ -13,3 +13,4 @@ LoadData <- function(InputFile){
 #first define the parameters and export file, then write a functin, save and call with document() and install
 #check the package in new R session (terminal()
 #man - manual
+# test comment
