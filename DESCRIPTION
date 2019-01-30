@@ -12,7 +12,7 @@ Suggests:
 Depends: R (>= 3.4.0),
   pheatmap,
   ggplot2,
-  Rtsne
+  Rtsne,
   rgl
 License: GLP-3
 Encoding: UTF-8
