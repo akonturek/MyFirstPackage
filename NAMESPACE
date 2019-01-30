@@ -3,4 +3,5 @@
 export(CalcTSNE)
 export(HeatMapVarGenes)
 export(LoadData)
+export(SingleCellData)
 export(get.var.genes)
