@@ -6,6 +6,7 @@ setClass("scell",
            data="matrix",
            var.genes="character",
            tsne="matrix",
-           facs="matrix"
+           facs="matrix",
+           groupsid="numeric"
          )
 )
